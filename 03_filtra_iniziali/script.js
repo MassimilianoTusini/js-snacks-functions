@@ -11,7 +11,7 @@ function searchLetter (arr, letter){
             result.push(arr[i]);
         }
     }
-    return result
+    return result;
 }
 
 // Invoca la funzione qui e stampa il risultato in console

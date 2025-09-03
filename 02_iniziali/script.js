@@ -9,7 +9,7 @@ function firstLetter (arr){
     for (let i = 0; i < arr.length; i++){
         initials.push(arr[i][0]);
     }
-    return initials
+    return initials;
 }
 
 // Invoca la funzione qui e stampa il risultato in console
